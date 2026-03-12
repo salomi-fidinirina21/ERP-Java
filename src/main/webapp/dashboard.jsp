@@ -26,7 +26,7 @@
             <div class="flex justify-between items-center">
                 <div>
                     <h1 class="text-3xl font-bold text-gray-900">Tableau de bord</h1>
-                    <p class="mt-1 text-lg text-gray-600">Bienvenue, ${sessionScope.user.prenom} ${sessionScope.user.nom} !</p>
+                    <p class="mt-1 text-lg text-gray-600">Bienvenue, ${sessionScope.user.email} !</p>
                 </div>
                 <div class="space-x-2">
                     <a href="profil.jsp" class="bg-white border border-gray-300 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-100 transition">

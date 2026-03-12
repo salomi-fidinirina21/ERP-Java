@@ -31,7 +31,7 @@
 
             <div class="mb-6">
                 <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Mot de passe</label>
-                <input type="password" id="password" name="password" required
+                <input type="password" id="password" name="mdp" required
                        class="shadow-sm appearance-none border rounded-lg w-full py-3 px-4 text-gray-700 mb-3 leading-tight focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent"
                        placeholder="******************">
             </div>
